@@ -1,10 +1,10 @@
 #!/bin/bash
 #Script Variables
 #mysql1.blazingfast.io
-HOST='185.61.137.171'
-USER='daddyjoh_pandavpn_unity'
-PASS='pandavpn_unity'
-DBNAME='daddyjoh_pandavpn_unity'
+HOST='127.0.0.1'
+USER='criz'
+PASS='romero'
+DBNAME='teampogi'
 
 rm -rf all_in_one.sh*
 
@@ -34,7 +34,7 @@ PORT_DNSTT_SSH_CLIENT='2222'
 PORT_V2RAY='10000'
 
 #CF
-CF_TOKEN='dsadsa'
+CF_TOKEN='noT8eSeb5ftekkozltbwBKb3hPjclefZa_Z1s80D'
 # CF_DOMAIN_NAME='test.com'
 
 timedatectl set-timezone Asia/Manila
