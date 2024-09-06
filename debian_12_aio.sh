@@ -37,8 +37,8 @@ PORT_V2RAY='10000'
 
 
 #CF
-CF_TOKEN='hxuNm-CPKlvcW6xelEra_8ThDV8wU67Q4XvFZFLy'
-CF_DOMAIN_NAME='zairiz-vpn.xyz'
+CF_TOKEN='hxuNm-I157wylxzv2zRijnM3IgAsVnHa7Jw_Gx9exMVI2r'
+CF_DOMAIN_NAME='rm-api.store'
 
 timedatectl set-timezone Asia/Manila
 server_ip=$(curl -s https://api.ipify.org)
